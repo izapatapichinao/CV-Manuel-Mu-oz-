@@ -7,6 +7,10 @@ body{
     
 }
 
+.navbar-nav .nav-link:hover{
+    color: white !important;
+}
+
 .datosdecontacto{
     margin-top: 3rem;
     padding: 2rem;
