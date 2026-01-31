@@ -1,0 +1,36 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.imagenperfil{
+    margin: 2rem;
+    
+}
+
+.datosdecontacto{
+    margin-top: 3rem;
+    padding: 2rem;
+    text-align: center;
+    background-color: #cfe2ff;
+    font-size: 1.1rem;
+}
+
+header {
+    margin: 2rem;
+    align-items: center;
+    
+}
+
+form {
+    background-color:#cfe2ff;
+    margin-top: 4rem;
+    padding: 1rem;
+
+}
+
+footer{
+    background-color: #cfe2ff;
+    margin-top: 2rem;
+    padding: 1rem;
+    width: auto;
+}

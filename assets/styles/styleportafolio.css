@@ -1,0 +1,17 @@
+header{
+    background-color:aliceblue;
+    padding: 1rem;
+}
+
+content{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem ;
+}
+
+footer{
+    background-color: #cfe2ff;
+    margin-top: 2rem;
+    padding: 1rem;
+    width: auto;
+}
